@@ -81,7 +81,7 @@ gitalk:
   clientSecret: ef6847fdf1378666b7a2da2b8409f4b59d503086
   repo: VainHelsing.github.io
   owner: VainHelsing
-  proxy:
+  proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
