@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 索多玛守夜鸮编年史
-description: 我看见盐柱倾圮，如新雪落入酒杯
+description: 我曾见盐柱倾圮，如新雪落入酒杯
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -77,10 +77,10 @@ disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 25d1a903a1648e092d9e
+  clientSecret: ef6847fdf1378666b7a2da2b8409f4b59d503086
+  repo: VainHelsing.github.io
+  owner: VainHelsing
   proxy:
 
 # 输入Google Analytics web tracking code
